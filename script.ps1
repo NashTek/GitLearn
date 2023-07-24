@@ -13,7 +13,4 @@ Write-Host "Consider following up with these users or their managers to determin
 
 Write-Host "Press any key to continue..."
 Write-Host "Press any key to continue..."
-Write-Host "Press any key to continue..."
-Write-Host "Press any key to continue..."
-Write-Host "Press any key to continue..."
-Write-Host "Press any key to continue..."
+
