@@ -1,5 +1,5 @@
 ## Variables ##
-$numUsersToAdd = 5
+$numUsersToAdd = 10
 $NUDGE_GROUP = "MicrosoftAuthenticator"
 
 # Check to see if connected
@@ -59,3 +59,4 @@ $usersToRemove | ForEach-Object {
 
 Write-Host "Script complete..." -ForegroundColor Green
 
+# End of script
