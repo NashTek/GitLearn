@@ -58,5 +58,5 @@ $usersToRemove | ForEach-Object {
 }
 
 Write-Host "Script complete..." -ForegroundColor Green
-#changed $numUsersToAdd to 10
+
 ```
