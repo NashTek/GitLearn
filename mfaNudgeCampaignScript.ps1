@@ -59,4 +59,4 @@ $usersToRemove | ForEach-Object {
 
 Write-Host "Script complete..." -ForegroundColor Green
 
-```
+# End of script
